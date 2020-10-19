@@ -1,0 +1,5 @@
+2020-10-18 21:08:49,628  INFO [http-nio-8080-exec-2] - Entering Create User method.
+2020-10-18 21:08:49,629  INFO [http-nio-8080-exec-2] - Username set to bbb
+2020-10-18 21:08:49,681 DEBUG [http-nio-8080-exec-2] - Cart for user bbb was saved to the repository.
+2020-10-18 21:08:49,764 DEBUG [http-nio-8080-exec-2] - Encrypting password for bbb
+2020-10-18 21:08:49,775  INFO [http-nio-8080-exec-2] - User bbb successfully saved.

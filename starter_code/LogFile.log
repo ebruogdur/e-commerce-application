@@ -1,0 +1,200 @@
+2020-10-18 21:09:11,408  INFO [main] - Entering Create User method.
+2020-10-18 21:09:11,409  INFO [main] - Username set to test
+2020-10-18 21:09:28,716  INFO [main] - Entering Create User method.
+2020-10-18 21:09:28,716  INFO [main] - Username set to test
+2020-10-18 21:09:28,718  INFO [main] - Entering Create User method.
+2020-10-18 21:09:28,719  INFO [main] - Username set to test
+2020-10-18 21:09:28,730  INFO [main] - Entering Create User method.
+2020-10-18 21:09:28,730  INFO [main] - Username set to test
+2020-10-18 21:17:04,747  INFO [main] - Entering Create User method.
+2020-10-18 21:17:04,747  INFO [main] - Username set to dummyUser
+2020-10-18 21:17:04,748 DEBUG [main] - Cart for user dummyUser was saved to the repository.
+2020-10-18 21:17:04,756 DEBUG [main] - Encrypting password for dummyUser
+2020-10-18 21:17:04,756  INFO [main] - User dummyUser successfully saved.
+2020-10-18 21:17:04,798  INFO [main] - Entering Create User method.
+2020-10-18 21:17:04,798  INFO [main] - Username set to dummyUser
+2020-10-18 21:17:04,798 DEBUG [main] - Cart for user dummyUser was saved to the repository.
+2020-10-18 21:17:04,799 DEBUG [main] - Encrypting password for dummyUser
+2020-10-18 21:17:04,799  INFO [main] - User dummyUser successfully saved.
+2020-10-18 21:17:04,799  INFO [main] - Entering Create User method.
+2020-10-18 21:17:04,800  INFO [main] - Username set to test
+2020-10-18 21:17:04,800 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:17:04,800 DEBUG [main] - Encrypting password for test
+2020-10-18 21:17:04,800  INFO [main] - User test successfully saved.
+2020-10-18 21:17:04,808  INFO [main] - Entering Create User method.
+2020-10-18 21:17:04,808  INFO [main] - Username set to dummyUser
+2020-10-18 21:17:04,808 DEBUG [main] - Cart for user dummyUser was saved to the repository.
+2020-10-18 21:17:04,808 DEBUG [main] - Encrypting password for dummyUser
+2020-10-18 21:17:04,808  INFO [main] - User dummyUser successfully saved.
+2020-10-18 21:17:04,818  INFO [main] - Entering Create User method.
+2020-10-18 21:17:04,818  INFO [main] - Username set to dummyUser
+2020-10-18 21:17:04,818 DEBUG [main] - Cart for user dummyUser was saved to the repository.
+2020-10-18 21:17:04,818 DEBUG [main] - Encrypting password for dummyUser
+2020-10-18 21:17:04,818  INFO [main] - User dummyUser successfully saved.
+2020-10-18 21:17:04,819  INFO [main] - Entering Create User method.
+2020-10-18 21:17:04,819  INFO [main] - Username set to test
+2020-10-18 21:17:04,819 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:17:04,819 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:17:04,819  INFO [main] - Entering Create User method.
+2020-10-18 21:17:04,819  INFO [main] - Username set to test
+2020-10-18 21:17:04,819 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:17:04,819 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:18:51,743  INFO [main] - Entering Create User method.
+2020-10-18 21:18:51,743  INFO [main] - Username set to test
+2020-10-18 21:18:51,752  INFO [main] - Entering Create User method.
+2020-10-18 21:18:51,752  INFO [main] - Username set to test
+2020-10-18 21:18:51,800  INFO [main] - Entering Create User method.
+2020-10-18 21:18:51,800  INFO [main] - Username set to test
+2020-10-18 21:19:25,057  INFO [main] - Entering Create User method.
+2020-10-18 21:19:25,058  INFO [main] - Username set to test
+2020-10-18 21:19:25,058 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:19:25,060 DEBUG [main] - Encrypting password for test
+2020-10-18 21:19:25,061  INFO [main] - User test successfully saved.
+2020-10-18 21:19:25,074  INFO [main] - Entering Create User method.
+2020-10-18 21:19:25,074  INFO [main] - Username set to test
+2020-10-18 21:19:25,075 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:19:25,075 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:19:25,114  INFO [main] - Entering Create User method.
+2020-10-18 21:19:25,114  INFO [main] - Username set to test
+2020-10-18 21:19:25,115 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:19:25,115 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:24:24,125  INFO [main] - Entering Create User method.
+2020-10-18 21:24:24,125  INFO [main] - Username set to test
+2020-10-18 21:24:24,126 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:24:24,128 DEBUG [main] - Encrypting password for test
+2020-10-18 21:24:24,128  INFO [main] - User test successfully saved.
+2020-10-18 21:24:24,138  INFO [main] - Entering Create User method.
+2020-10-18 21:24:24,138  INFO [main] - Username set to test
+2020-10-18 21:24:24,138 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:24:24,138 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:24:24,170  INFO [main] - Entering Create User method.
+2020-10-18 21:24:24,170  INFO [main] - Username set to test
+2020-10-18 21:24:24,171 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:24:24,171 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:25:19,167 DEBUG [main] - Item successfully removed from cart: Optional[com.example.demo.model.persistence.Item@20]
+2020-10-18 21:25:19,178 ERROR [main] - Item not found: 2
+2020-10-18 21:25:19,192 ERROR [main] - Username not found: boo
+2020-10-18 21:25:19,202 ERROR [main] - Item not found: 2
+2020-10-18 21:25:19,211 ERROR [main] - Username not found: boo
+2020-10-18 21:26:30,223 ERROR [main] - Item with name Square Widget not found in repository.
+2020-10-18 21:26:30,258 DEBUG [main] - 1 items found with name: Round Widget
+2020-10-18 21:27:25,164 ERROR [main] - Username not found: someone
+2020-10-18 21:27:25,192 ERROR [main] - Username not found: someone
+2020-10-18 21:27:25,213  INFO [main] - test successfully submitted an order: com.example.demo.model.persistence.UserOrder@4912d525
+2020-10-18 21:29:29,185  INFO [main] - Entering Create User method.
+2020-10-18 21:29:29,186  INFO [main] - Username set to test
+2020-10-18 21:29:29,186 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:29:29,188 DEBUG [main] - Encrypting password for test
+2020-10-18 21:29:29,188  INFO [main] - User test successfully saved.
+2020-10-18 21:29:29,201  INFO [main] - Entering Create User method.
+2020-10-18 21:29:29,201  INFO [main] - Username set to test
+2020-10-18 21:29:29,201 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:29:29,201 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:29:29,244  INFO [main] - Entering Create User method.
+2020-10-18 21:29:29,244  INFO [main] - Username set to test
+2020-10-18 21:29:29,245 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:29:29,245 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:29:55,843  INFO [main] - Entering Create User method.
+2020-10-18 21:29:55,844  INFO [main] - Username set to test
+2020-10-18 21:29:55,844 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:29:55,845 DEBUG [main] - Encrypting password for test
+2020-10-18 21:29:55,845  INFO [main] - User test successfully saved.
+2020-10-18 21:29:55,856  INFO [main] - Entering Create User method.
+2020-10-18 21:29:55,856  INFO [main] - Username set to test
+2020-10-18 21:29:55,856 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:29:55,857 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:29:55,894  INFO [main] - Entering Create User method.
+2020-10-18 21:29:55,894  INFO [main] - Username set to test
+2020-10-18 21:29:55,894 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:29:55,894 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:30:39,145  INFO [main] - Entering Create User method.
+2020-10-18 21:30:39,146  INFO [main] - Username set to test
+2020-10-18 21:30:39,146 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:30:39,147 DEBUG [main] - Encrypting password for test
+2020-10-18 21:30:39,148  INFO [main] - User test successfully saved.
+2020-10-18 21:31:00,751  INFO [main] - Entering Create User method.
+2020-10-18 21:31:00,752  INFO [main] - Username set to test
+2020-10-18 21:31:00,752 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:31:00,753 DEBUG [main] - Encrypting password for test
+2020-10-18 21:31:00,753  INFO [main] - User test successfully saved.
+2020-10-18 21:31:35,116  INFO [main] - Entering Create User method.
+2020-10-18 21:31:35,116  INFO [main] - Username set to test
+2020-10-18 21:31:35,116 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:31:35,118 DEBUG [main] - Encrypting password for test
+2020-10-18 21:31:35,119  INFO [main] - User test successfully saved.
+2020-10-18 21:31:35,130  INFO [main] - Entering Create User method.
+2020-10-18 21:31:35,131  INFO [main] - Username set to test
+2020-10-18 21:31:35,131 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:31:35,131 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:31:35,168  INFO [main] - Entering Create User method.
+2020-10-18 21:31:35,168  INFO [main] - Username set to test
+2020-10-18 21:31:35,168 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:31:35,168 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:31:48,465  INFO [main] - Entering Create User method.
+2020-10-18 21:31:48,466  INFO [main] - Username set to test
+2020-10-18 21:31:48,466 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:31:48,469 DEBUG [main] - Encrypting password for test
+2020-10-18 21:31:48,469  INFO [main] - User test successfully saved.
+2020-10-18 21:31:48,477  INFO [main] - Entering Create User method.
+2020-10-18 21:31:48,478  INFO [main] - Username set to test
+2020-10-18 21:31:48,478 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:31:48,478 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:31:48,511  INFO [main] - Entering Create User method.
+2020-10-18 21:31:48,511  INFO [main] - Username set to test
+2020-10-18 21:31:48,511 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:31:48,511 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:36:43,792  INFO [main] - Entering Create User method.
+2020-10-18 21:36:43,792  INFO [main] - Username set to test
+2020-10-18 21:36:43,808  INFO [main] - Entering Create User method.
+2020-10-18 21:36:43,808  INFO [main] - Username set to test
+2020-10-18 21:36:43,837  INFO [main] - Entering Create User method.
+2020-10-18 21:36:43,837  INFO [main] - Username set to test
+2020-10-18 21:37:07,850  INFO [main] - Entering Create User method.
+2020-10-18 21:37:07,850  INFO [main] - Username set to test
+2020-10-18 21:37:07,850 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:37:07,852 DEBUG [main] - Encrypting password for test
+2020-10-18 21:37:07,852  INFO [main] - User test successfully saved.
+2020-10-18 21:37:07,861  INFO [main] - Entering Create User method.
+2020-10-18 21:37:07,861  INFO [main] - Username set to test
+2020-10-18 21:37:07,861 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:37:07,861 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:37:07,903  INFO [main] - Entering Create User method.
+2020-10-18 21:37:07,904  INFO [main] - Username set to test
+2020-10-18 21:37:07,904 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:37:07,904 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:37:18,881  INFO [main] - Entering Create User method.
+2020-10-18 21:37:18,881  INFO [main] - Username set to test
+2020-10-18 21:37:18,882 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:37:18,883 DEBUG [main] - Encrypting password for test
+2020-10-18 21:37:18,883  INFO [main] - User test successfully saved.
+2020-10-18 21:37:18,891  INFO [main] - Entering Create User method.
+2020-10-18 21:37:18,891  INFO [main] - Username set to test
+2020-10-18 21:37:18,892 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:37:18,892 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:37:18,922  INFO [main] - Entering Create User method.
+2020-10-18 21:37:18,922  INFO [main] - Username set to test
+2020-10-18 21:37:18,923 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:37:18,923 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:42:46,761  INFO [main] - Entering Create User method.
+2020-10-18 21:42:46,761  INFO [main] - Username set to test
+2020-10-18 21:42:46,761 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:42:46,762 DEBUG [main] - Encrypting password for test
+2020-10-18 21:42:46,763  INFO [main] - User test successfully saved.
+2020-10-18 21:42:46,772  INFO [main] - Entering Create User method.
+2020-10-18 21:42:46,772  INFO [main] - Username set to test
+2020-10-18 21:42:46,772 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:42:46,772 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:42:46,808  INFO [main] - Entering Create User method.
+2020-10-18 21:42:46,808  INFO [main] - Username set to test
+2020-10-18 21:42:46,808 DEBUG [main] - Cart for user test was saved to the repository.
+2020-10-18 21:42:46,808 ERROR [main] - Error with user password. Cannot create user test
+2020-10-18 21:43:02,962 ERROR [main] - Username not found: someone
+2020-10-18 21:43:02,987 ERROR [main] - Username not found: someone
+2020-10-18 21:43:03,015  INFO [main] - test successfully submitted an order: com.example.demo.model.persistence.UserOrder@4912d525
+2020-10-18 21:43:10,109 ERROR [main] - Item with name Square Widget not found in repository.
+2020-10-18 21:43:10,131 DEBUG [main] - 1 items found with name: Round Widget
+2020-10-18 21:43:17,940 DEBUG [main] - Item successfully removed from cart: Optional[com.example.demo.model.persistence.Item@20]
+2020-10-18 21:43:17,957 ERROR [main] - Item not found: 2
+2020-10-18 21:43:17,971 ERROR [main] - Username not found: boo
+2020-10-18 21:43:17,983 ERROR [main] - Item not found: 2
+2020-10-18 21:43:17,995 ERROR [main] - Username not found: boo
